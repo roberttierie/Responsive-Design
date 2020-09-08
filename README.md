@@ -9,6 +9,11 @@ In this module challenge you will continue working on your portfolio website to 
 ## Objectives
 
 - describe the differences in fixed, fluid, adaptive, and responsive layouts
+
+The main differences:
+fixed = 
+fluid = 
+a
 - implement media queries in a project.
 - describe how using scalable units for font sizes impacts accessibility and why designing accessible web pages is important
 
